@@ -50,7 +50,6 @@ class InferGoogleVisionLogoDetection(dataprocess.CObjectDetectionTask):
             self.set_param_object(copy.deepcopy(param))
 
         self.client = None
-        self.classes = None
 
     def get_progress_steps(self):
         # Function returning the number of progress steps for this algorithm
