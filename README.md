@@ -120,10 +120,10 @@ for output in algo.get_outputs():
 
 
 ### :key: Set the Google Cloud Vision API Key in your environment variable. 
-[Permanently setting the API Key in your environment variable](https://medium.com/@kapilgorve/set-environment-variable-in-windows-and-wsl-linux-in-terminal-c5e11138e807) enables the use of this algorithm without having to define the 'google_application_credentials' parameter every time.
+[Permanently setting the 'GOOGLE_APPLICATION_CREDENTIALS' API Key in your environment variable](https://medium.com/@kapilgorve/set-environment-variable-in-windows-and-wsl-linux-in-terminal-c5e11138e807)  enables the use of this algorithm without having to define the 'google_application_credentials' parameter every time.
 
 
-*Note: the key will be require for deployments.*
+*Note: the key will still be required for deployments.*
 
 
 
