@@ -10,7 +10,7 @@
     <a href="https://app.ikomia.ai/hub/">
         <img alt="Website" src="https://img.shields.io/website/http/app.ikomia.ai/en.svg?down_color=red&down_message=offline&up_message=online">
     </a>
-    <a href="https://github.com/Ikomia-hub/infer_google_vision_logo_detection/blob/main/LICENSE.md">
+    <a href="https://github.com/Ikomia-hub/infer_google_vision_logo_detection/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/Ikomia-hub/infer_google_vision_logo_detection.svg?color=blue">
     </a>    
     <br>
